@@ -1,5 +1,5 @@
 {
-  "name": "bpmn-js-fork",
+  "name": "bpmn-js",
   "version": "1",
   "description": "A bpmn 2.0 toolkit and web modeler",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gwdo/bpmn-js"
+    "url": "https://github.com/gwdo/bpmn-js-fork"
   },
   "keywords": [
     "bpmn",
